@@ -1,4 +1,4 @@
 # Repositório de teste!
-Primeiro repositório do curso de Git e GitHub do Curso em Vídeo.
+*Primeiro repositório* do **curso de Git e GitHub** do Curso em Vídeo.
 
 Linha adicionada remotamente!
