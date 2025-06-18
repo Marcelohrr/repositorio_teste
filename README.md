@@ -28,9 +28,9 @@ quebra de linha: dois espaços
 - [ ] lista de tarefas vazia
 - [x] lista de tarefas marcada
 
-<url>  
-[texto clicável](url do link)  
-![descrição da imagem](url da imagem)  
+<https://exemplo.com>  
+[texto clicável](https://exemplo.com)  
+![descrição da imagem](https://exemplo.com/imagem.png)  
 
 tabela | tabela
 ---|---
