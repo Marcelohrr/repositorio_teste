@@ -1,7 +1,7 @@
 # Repositório de teste!
-*Primeiro repositório* do **curso de Git e GitHub** do Curso em Vídeo.
+*Primeiro repositório* do **curso de Git e GitHub** do Curso em Vídeo.  
 
-Linha adicionada remotamente!
+Linha adicionada remotamente!  
 
 Aula de Markdown do Curso em Vídeo:
 # Título (nível 1) (# texto)
@@ -9,12 +9,15 @@ Aula de Markdown do Curso em Vídeo:
 ### Título (nível 3) (### texto)...
 
 ---
+linhas
 ***
 
-*itálico* ou _itálico_ (texto entre ** ou __)
-**negrito** ou __negrito__ (texto entre **** ou ____)
-~~riscado~~ (texto entre ~~~~)
-*__~~itálico, negrito e riscado~~__* ... (qualquer combinação)
+quebra de linha: dois espaços  
+
+*itálico* ou _itálico_ (texto entre ** ou __)  
+**negrito** ou __negrito__ (texto entre **** ou ____)  
+~~riscado~~ (texto entre ~~~~)  
+*__~~itálico, negrito e riscado~~__* ... (qualquer combinação)  
 
 1. lista numerada
    1. subitem (três espaços)
@@ -25,9 +28,9 @@ Aula de Markdown do Curso em Vídeo:
 - [ ] lista de tarefas vazia
 - [x] lista de tarefas marcada
 
-<url>
-[texto clicável](url do link)
-![descrição da imagem](url da imagem)
+<url>  
+[texto clicável](url do link)  
+![descrição da imagem](url da imagem)  
 
 tabela | tabela
 ---|---
@@ -39,10 +42,10 @@ x2y1 | x2y2
 bloco de código
 ```
 
-:nome do emoji:
-😄
+:nome do emoji:  
+😄  
 
-@nome da pessoa (marca usuário)
+@nome da pessoa (marca usuário)  
 
 > referência (marca citação)
 >> citação aninhada
